@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+    <string name="sort_most_popular">Most Popular</string>
+    <string name="sort_top_rated">Top Rated</string>
+    <string name="sort_favorite">Favorites</string>
+
+    <string name="user_rating_label">User Rating</string>
+    <string name="release_date_label">Release Date</string>
+    <string name="synopsis_label">Synopsis</string>
+    <string name="reviews_label">Reviews</string>
+    <string name="trailers_label">Trailers</string>
+    <string name="api_key">9fa2d22f1aeeee94f746cd1dcc4b0580</string>
+
+    <string name="Error_NoMovieData">No Movie data</string>
+</resources>
+

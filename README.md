@@ -18,3 +18,7 @@ In this project, we continue building the movies app in [stage 1](https://github
 
 ## Data Source
 All movie data used in this project are obatined from [themoviedb.org API](https://www.themoviedb.org/documentation/api)
+
+## Screenshot
+
+<img src="https://github.com/satyampatil/movie_stage2/blob/master/ss/movie1.png" alt="HOME" width="20%" height="20%" hspace="20"><img src="https://github.com/satyampatil/movie_stage2/blob/master/ss/movie2.png" alt="HOME" width="20%" height="20%" hspace="20"><img src="https://github.com/satyampatil/movie_stage2/blob/master/ss/movie3.png" alt="HOME" width="20%" height="20%" hspace="20>

@@ -21,4 +21,5 @@ All movie data used in this project are obatined from [themoviedb.org API](https
 
 ## Screenshot
 
-<img src="https://github.com/satyampatil/movie_stage2/blob/master/ss/movie1.png" alt="HOME" width="20%" height="20%" hspace="20"><img src="https://github.com/satyampatil/movie_stage2/blob/master/ss/movie2.png" alt="HOME" width="20%" height="20%" hspace="20"><img src="https://github.com/satyampatil/movie_stage2/blob/master/ss/movie3.png" alt="HOME" width="20%" height="20%" hspace="20>
+<img src="https://github.com/satyampatil/movie_stage2/blob/master/ss/movie1.png" alt="HOME" width="50%" height="50%" hspace="20"><img src="https://github.com/satyampatil/movie_stage2/blob/master/ss/movie2.png" alt="HOME" width="50%" height="50%" hspace="20">
+<img src="https://github.com/satyampatil/movie_stage2/blob/master/ss/movie3.png" alt="HOME" width="50%" height="50%" hspace="20">
